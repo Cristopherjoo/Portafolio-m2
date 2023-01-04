@@ -16,6 +16,9 @@ $ ssh-add ~/.ssh/id_ed25519 --> Agregando llave privada SSh al ssh-agent. de est
 #### Comandos usados de git:
 
 git init --> Permite Inicializar un repositorio local.
+git add . --> Agregamos los cambios al stage área.
+git commit -m "mensaje" confirmamos los cambios para versionarlos.
+git push origin main/master --> Subimos los cambios la repositorio remoto (github).
 
 
 
