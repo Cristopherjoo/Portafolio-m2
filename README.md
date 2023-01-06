@@ -2,6 +2,8 @@
 
 Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web.
 
+link Github: https://github.com/Cristopherjoo/Portafolio-m2
+
 ## Tecnologías utilizadas
 
 Para ello se utilizó HTML para  la estructura del documento, 
