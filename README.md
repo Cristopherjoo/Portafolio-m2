@@ -2,9 +2,9 @@
 
 Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web.
 
-## Tecnologias utilizadas
+## Tecnologías utilizadas
 
-Para ello se utilizo HTML para  la estructura del documento, 
+Para ello se utilizó HTML para  la estructura del documento, 
 CSS para dar el estilo, Bootstrap v5.3.
 
 ### Comandos usados de git:
