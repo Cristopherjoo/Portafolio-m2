@@ -1,0 +1,49 @@
+
+
+.navbar {
+  background-color: rgb(13, 20, 26);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 40px 40px 40px 40px;
+  box-sizing: border-box;
+  border: 5px solid rgb(89, 56, 122);
+  box-shadow: 10px 20px 25px 5px;
+}
+
+.nav-item img {
+  width: 40px;
+  height: 40px;
+}
+
+header {
+  border-bottom: #897d9b 3px solid;
+  border-radius: 30px;
+}
+
+h1 {
+  padding: 10px;
+  -webkit-text-stroke: 1px rgb(240, 205, 154);
+  font-family: "Vampiro One", cursive;
+}
+
+
+footer ul li {
+  align-items: flex-start
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
+
+
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}

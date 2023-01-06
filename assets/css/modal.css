@@ -1,0 +1,49 @@
+.navbar {
+  background-color: rgb(13, 20, 26);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 40px 40px 40px 40px;
+  box-sizing: border-box;
+  border: 5px solid rgb(89, 56, 122);
+  box-shadow: 10px 20px 25px 5px;
+}
+
+.nav-item img {
+  width: 40px;
+  height: 40px;
+}
+
+
+.box {
+  background-color: rgb(13, 20, 26);
+  margin: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 5px solid rgb(118, 87, 149);
+  box-shadow: 10px 20px 20px 20px;
+}
+
+
+
+
+.row,
+h2,
+p {
+  color: rgb(247, 239, 224);
+  flex: auto;
+}
+
+.row .col-4 {
+  flex: auto;
+  
+
+}
+
+.center,
+#imagen {
+  margin: auto;
+  width: 100%;
+
+  padding: 10px;
+
+}
