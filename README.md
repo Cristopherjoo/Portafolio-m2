@@ -1,12 +1,14 @@
 # Entrega portafolio M2
 
-Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web.
-
-link: https://github.com/Cristopherjoo/Portafolio-m2
+Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web. link: https://github.com/Cristopherjoo/Portafolio-m2
 
 ## Tecnologias utilizadas
 
-Para ello se utilizo HTML para  la estructura del documento, 
+link Github: https://github.com/Cristopherjoo/Portafolio-m2
+
+## Tecnologías utilizadas
+
+Para ello se utilizó HTML para  la estructura del documento, 
 CSS para dar el estilo, Bootstrap v5.3.
 
 ### Comandos usados de git:

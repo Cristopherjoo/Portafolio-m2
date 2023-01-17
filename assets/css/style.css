@@ -1,4 +1,7 @@
-
+* {
+  margin: 0;
+  padding: 0;
+}
 
 .navbar {
   background-color: rgb(13, 20, 26);
@@ -8,11 +11,21 @@
   box-sizing: border-box;
   border: 5px solid rgb(89, 56, 122);
   box-shadow: 10px 20px 25px 5px;
+  font-family: "Jacques Francois Shadow", cursive;
+}
+#login {
+  align-items: baseline;
 }
 
-.nav-item img {
-  width: 40px;
-  height: 40px;
+
+.navbar-brand img {
+  width: 35px;
+  height: 35px;
+}
+
+.navbar-brand i{
+  color: rgb(246, 14, 87);
+  font-size: 36px;
 }
 
 header {
@@ -22,18 +35,38 @@ header {
 
 h1 {
   padding: 10px;
-  -webkit-text-stroke: 1px rgb(240, 205, 154);
+  -webkit-text-stroke: 2px rgb(247, 210, 154);
   font-family: "Vampiro One", cursive;
 }
 
+body {
+  background: linear-gradient(90deg, #f6dada, #545159);
+  height: 100vh;
+}
 
-footer ul li {
-  align-items: flex-start
+
+
+.card img {
+  height: 170px; 
+  box-shadow: 20px 10px 50px 0 #ddd9e4;
+ 
+
+}
+
+.modal-body p {
+  font-size: 40px;
+  font-family: "Courgette", cursive;
+  color: rgb(44, 37, 12);
+}
+
+footer {
+  align-items: flex-start;
+  margin: 50px;
+  font-size: 20px
+
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
-
-
 
 @media only screen and (max-width: 700px) {
   .responsive {
